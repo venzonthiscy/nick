@@ -22,5 +22,16 @@ body {
     display: flex;
     flex-direction: column;
     min-width: 100vh;
-}
+background-color: rpg(158,255, 255 )
 
+main [ 
+      flex: 1 
+
+      ]
+
+
+
+    footer [
+      background - color: aliceblue;
+      pa
+    ]
